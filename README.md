@@ -33,11 +33,12 @@ pip install requests urllib3 tkinter natsort
 ```
 - Enable **[Geocoding API](https://console.cloud.google.com/apis/library/geocoding-backend.googleapis.com?project=python-places-api-386609)** and **[Places API](https://console.cloud.google.com/apis/library/places-backend.googleapis.com?project=python-places-api-386609)**
 ## 2. Authentication
-To access the Google Maps API, you need to obtain an **API key** and store it in a file named **"API_KEY.txt"** in the same directory as the script. The API key is required for the code to function properly.
+To access the Google Maps API, you need to obtain an **API key** and store it in a file named **"creds.py"** in the same directory as the script. The API key is required for the code to function properly.
+To create **API key** you should:
 - Go to the Google Cloud Console.
 - Create a new project or select an existing project.
 - Enable the Google Maps Platform and generate an API key.
-- Copy the API key and store it in a file named "API_KEY.txt" in the same directory as the script.
+- Copy the API key and store it in a file named "creds.py" in the same directory as the script.
 
 
 ## 3. Usage
