@@ -45,9 +45,9 @@ To create **API key** you should:
 **To use the code, follow these steps:**
 - Import the required module:
 ```
-from Interface import RestaurantSearcherGUI
+from interface import RestaurantSearcherGUI
 ```
-- Create an instance of the **Interface** class:
+- Create an instance of the **interface** class:
 ```
 program = RestaurantSearcherGUI()
 ```
