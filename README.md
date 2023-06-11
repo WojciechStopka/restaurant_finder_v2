@@ -38,7 +38,7 @@ To create **API key** you should:
 - Go to the Google Cloud Console.
 - Create a new project or select an existing project.
 - Enable the Google Maps Platform and generate an API key.
-- Copy the API key and store it in a file named "creds.py" in the same directory as the script.
+- Copy the API key and store it in a file named **creds.py** in the same directory as the script.
 
 
 ## 3. Usage
