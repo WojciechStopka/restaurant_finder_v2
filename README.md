@@ -1,5 +1,5 @@
 # Restaurant_finder
-![image](https://github.com/WojciechStopka/Restaurant_finder/assets/44327221/ac80b1e1-687f-42b5-b30e-d09a84069bf5)
+![interface](https://github.com/WojciechStopka/restaurant_finder_v2/assets/44327221/e8fbbf5c-9a05-4385-b6cc-2c1c7877ddc5)
 
 The Restaurant Finder is a Python project that utilizes the Google Maps API to retrieve restaurant data based on location, radius, and keyword. It provides a GUI application for users to search for restaurants in given location.
 
@@ -54,7 +54,7 @@ program = RestaurantSearcherGUI()
 - Provide inormation in **Radius** and **Location** windows and choose type of food you are looking for.
   - In Location window, you can specify your location with information such as **city**, **street** and **building number**.
 ## 4. Example
-![image](https://github.com/WojciechStopka/Restaurant_finder/assets/44327221/79702144-adb7-4706-939a-d54c8870cb9a)
+![example](https://github.com/WojciechStopka/restaurant_finder_v2/assets/44327221/ccf7ff06-554a-453f-9d8f-c7d938226f92)
 
 ## 5. Ideas for improvements
 
