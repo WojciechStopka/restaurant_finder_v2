@@ -29,7 +29,7 @@ Within this project, I would like to explore the following:
 - Make sure **images** folder is in same directory as the script.
 - Install the required libraries by running the following command
 ```
-pip install requests urllib3 tkinter natsort
+pip install -r requirements.txt
 ```
 - Enable **[Geocoding API](https://console.cloud.google.com/apis/library/geocoding-backend.googleapis.com?project=python-places-api-386609)** and **[Places API](https://console.cloud.google.com/apis/library/places-backend.googleapis.com?project=python-places-api-386609)**
 ## 2. Authentication
