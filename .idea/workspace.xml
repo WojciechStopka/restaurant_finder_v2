@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44205d11-bf37-4efe-9e29-b49651680822" name="Changes" comment="Updating gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44205d11-bf37-4efe-9e29-b49651680822" name="Changes" comment="requirements.txt added to the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686509298396</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="requirements.txt added to the project">
+      <created>1688640241134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688640241134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating gitignore" />
+    <MESSAGE value="requirements.txt added to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements.txt added to the project" />
   </component>
 </project>
